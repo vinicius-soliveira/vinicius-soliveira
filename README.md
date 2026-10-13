@@ -11,8 +11,6 @@ I'm also expanding my work into **FPGA/ASIC front-end design and verification**,
 
 At LNLS/CNPEM, I have worked on firmware and electronic instrumentation for synchrotron beamlines and, more recently, motion-control systems. My experience includes microcontroller-based applications, communication interfaces, real-time behavior, device integration, debugging, and engineering automation.
 
-I value clear interfaces, reproducible testing, and practical engineering trade-offs.
-
 ## Technical expertise
 
 | Area | Technologies and topics |
@@ -33,12 +31,6 @@ A Python toolkit for engineering time-series data, including signal visualizatio
 
 **[Embedded Systems Engineering Library](https://github.com/vinicius-soliveira/embedded-systems-engineering-library)**  
 An organized technical reference covering embedded software, RTOS, digital design, verification, SoC architecture, tooling, and systems engineering.
-
-## Current focus
-
-- Building reliable and testable embedded systems.
-- Exploring FPGA/ASIC design, verification, and hardware/software co-design.
-- Improving engineering workflows through automation and reproducible tests.
 
 ---
 
